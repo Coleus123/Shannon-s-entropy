@@ -1,0 +1,6 @@
+input: qwasdeqd
+output: 0.967132018086354
+input: wwwww
+output: 0
+input: axcd
+output: 1
